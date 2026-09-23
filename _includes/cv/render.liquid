@@ -163,7 +163,7 @@
               {% elsif section_title == 'Languages' %}
                 {% assign entries = section_entries %}
                 {% include cv/languages.liquid %}
-              {% elsif section_title == 'Interests' or section_title == 'Broader Interests' %}
+              {% elsif section_title == 'Interests'%}
                 {% assign entries = section_entries %}
                 {% include cv/interests.liquid %}
               {% elsif section_title == 'Certificates' %}
@@ -172,7 +172,7 @@
               {% elsif section_title == 'Projects' or section_title == 'Open Source Projects' %}
                 {% assign entries = section_entries %}
                 {% include cv/projects.liquid %}
-              {% elsif section_title == 'References' or section_title == 'Conference Presentations' or section_title == 'Teaching' %}
+              {% elsif section_title == 'References' or section_title == 'Conference Presentations' or section_title == 'Teaching' or section_title == 'Broader Interests' %}
                 {% assign entries = section_entries %}
                 {% include cv/references.liquid %}
               {% else %}

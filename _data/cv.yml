@@ -4,7 +4,7 @@ cv:
   email: sxf229@student.bham.ac.uk
   #location: Princeton, NJ
   image: ""
-  summary: Final-year PhD student at the University of Birmingham, researching how extreme windstorms cluster in both space and time on intra-seasonal timescales, employing HPC workflows to efficiently process and analyse large-scale datasets. 
+  summary: Final-year PhD student at the University of Birmingham, researching how extreme windstorms cluster in both space and time on intra-seasonal timescales, using high-performance computing to analyse large datasets. 
   sections:
     Education:
       - institution: University of Birmingham
@@ -14,8 +14,8 @@ cv:
         start_date: "Sep 2023"
         end_date: "2027"
         highlights: 
-        - "Thesis working title : Intra-seasonal variability of Temporal-Spatial Clustering of Extreme Extra-tropical Cyclones in a Changing Climate"
-        - "Primary Supervisor Prof.Gregor Leckebusch"
+        - "Thesis working title: Intra-seasonal variability of Temporal-Spatial Clustering of Extreme Extra-tropical Cyclones in a Changing Climate"
+        - "Primary Supervisor: Prof.Gregor Leckebusch"
 
       - institution: University of Birmingham
         location:  Birmingham, UK
@@ -42,12 +42,6 @@ cv:
       - name: Climate Data & Tools
         icon: fa-solid fa-cloud
         keywords: "NetCDF, CDO, WiTRACK (windstorm tracking)"
-      - name: Web Development
-        icon: fa-solid fa-globe
-        keywords: "HTML, CSS"
-
-    Broader Interests:
-      - name: Scientific Communication, Open Science, Public Outreach, Widening Participation in Higher Education
 
     Conference Presentations:
     - name: "Oral Presentations"
@@ -62,3 +56,7 @@ cv:
     - name: "Graduate Demonstrator - University of Birmingham"
       icon: fa-solid fa-chalkboard-user
       reference: "Technical skills (Bash, CDO, SPSS), fieldwork data collection, and climate science tutorial support (2023-2026)"
+
+    Broader Interests:
+      - name: Scientific Communication, Open Science, Public Outreach, Widening Participation in Higher Education
+        keywords: ""
