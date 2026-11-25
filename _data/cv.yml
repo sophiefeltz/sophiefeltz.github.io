@@ -11,8 +11,8 @@ cv:
         location: Birmingham, UK
         area: Atmospheric Science
         studyType: PhD
-        start_date: "Sep 2023"
-        end_date: "2027"
+        start_date: 2023-09
+        end_date: 2027-06
         highlights: 
         - "Thesis working title: Intra-seasonal variability of Temporal-Spatial Clustering of Extreme Extra-tropical Cyclones in a Changing Climate"
         - "Primary Supervisor: Prof.Gregor Leckebusch"
@@ -20,8 +20,8 @@ cv:
       - institution: University of Birmingham
         location:  Birmingham, UK
         studyType: Applied Meteorology and Climatology  MSc
-        start_date: Sep 2022
-        end_date: Sep 2023
+        start_date: 2022-09
+        end_date: 2023-09
 
     Publications:
       - title: Intra-Seasonal Variability of Serial Clustering of Severe European Winter Windstorms
