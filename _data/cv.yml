@@ -41,7 +41,7 @@ cv:
         keywords: "Linux, HPC (SLURM), Nextflow"
       - name: Climate Data & Tools
         icon: fa-solid fa-cloud
-        keywords: "NetCDF, CDO, WiTRACK (windstorm tracking)"
+        keywords: "NetCDF, CDO, WiTRACK (windstorm tracking), CMIP model output, seasonal hindcast ensembles"
 
     Conference Presentations:
     - name: "Oral Presentations"
