@@ -1,37 +1,38 @@
 cv:
   name: Sophie Feltz
-  #label: Scientist
   email: sxf229@student.bham.ac.uk
-  #location: Princeton, NJ
-  image: ""
-  summary: Final-year PhD student at the University of Birmingham, researching how extreme windstorms cluster in both space and time on intra-seasonal timescales, using high-performance computing to analyse large datasets. 
   sections:
+    About:
+      - Final-year PhD student at the University of Birmingham, researching how extreme windstorms cluster in both space and time on intra-seasonal timescales, using high-performance computing to analyse large datasets.
     Education:
       - institution: University of Birmingham
         location: Birmingham, UK
         area: Atmospheric Science
-        studyType: PhD
+        degree: PhD
         start_date: 2023-09
         end_date: 2027-06
-        highlights: 
-        - "Thesis working title: Intra-seasonal variability of Temporal-Spatial Clustering of Extreme Extra-tropical Cyclones in a Changing Climate"
-        - "Primary Supervisor: Prof.Gregor Leckebusch"
-
+        highlights:
+          - "Thesis working title: Intra-seasonal variability of Temporal-Spatial Clustering of Extreme Extra-tropical Cyclones in a Changing Climate"
+          - "Primary Supervisor: Prof. Gregor Leckebusch"
       - institution: University of Birmingham
-        location:  Birmingham, UK
-        studyType: Applied Meteorology and Climatology  MSc
+        location: Birmingham, UK
+        area: Applied Meteorology and Climatology
+        degree: MSc
         start_date: 2022-09
         end_date: 2023-09
-
     Publications:
       - title: Intra-Seasonal Variability of Serial Clustering of Severe European Winter Windstorms
         authors:
-          - S. Feltz, K. S. Ng, C. Allen, T. Kruschke,M. Angus, A. Quinn, G. C. Leckebusch
-        publisher: Geophysical Research Letters
-        releaseDate: 2026
-        url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120985
-        summary:  We evaluated whether there are certain times within the winter season when windstorms are more likely to cluster, and the association with largescale modes; the North Atlantic Oscillation (NAO), East Atlantic Pattern (EA) and Scandinavian Pattern (SCA). We found a greater occurrence of clustering in the later part of the winter season. Specifically, we identified two distinct periods where clustering is enhanced, one period in the middle of the season (mid-January) and one at the end (February). 
-
+          - S. Feltz
+          - K. S. Ng
+          - C. Allen
+          - T. Kruschke
+          - M. Angus
+          - A. Quinn
+          - G. C. Leckebusch
+        journal: Geophysical Research Letters
+        date: 2026
+        doi: 10.1029/2025GL120985
     Skills:
       - label: Programming Languages
         details: Python, Bash
@@ -39,21 +40,13 @@ cv:
         details: Linux, HPC (SLURM), Nextflow
       - label: Climate Data & Tools
         details: NetCDF, CDO, WiTRACK (windstorm tracking), CMIP model output, seasonal hindcast ensembles
-
     Conference Presentations:
-    - name: "Oral Presentations"
-      icon: fa-solid fa-microphone
-      reference: "Workshop on European Storms (2026), AGU Annual Meeting (2025), Workshop on European Storms (2025)"
-
-    - name: "Poster Presentations"
-      icon: fa-solid fa-sheet-plastic
-      reference: "EGU General Assembly (2026,2025,2024), AGU Annual Meeting (2024), RMetS Early Career and Student Conference(2024)"
-
+      - label: Oral Presentations
+        details: Workshop on European Storms (2026), AGU Annual Meeting (2025), Workshop on European Storms (2025)
+      - label: Poster Presentations
+        details: EGU General Assembly (2026, 2025, 2024), AGU Annual Meeting (2024), RMetS Early Career and Student Conference (2024)
     Teaching:
-    - name: "Graduate Demonstrator - University of Birmingham"
-      icon: fa-solid fa-chalkboard-user
-      reference: "Technical skills (Bash, CDO, SPSS), fieldwork data collection, and climate science tutorial support (2023-2026)"
-
+      - label: Graduate Demonstrator, University of Birmingham
+        details: Technical skills (Bash, CDO, SPSS), fieldwork data collection, and climate science tutorial support (2023-2026)
     Broader Interests:
-      - name: Scientific Communication, Open Science, Public Outreach, Widening Participation in Higher Education
-        keywords: ""
+      - Scientific Communication, Open Science, Public Outreach, Widening Participation in Higher Education
