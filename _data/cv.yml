@@ -33,15 +33,12 @@ cv:
         summary:  We evaluated whether there are certain times within the winter season when windstorms are more likely to cluster, and the association with largescale modes; the North Atlantic Oscillation (NAO), East Atlantic Pattern (EA) and Scandinavian Pattern (SCA). We found a greater occurrence of clustering in the later part of the winter season. Specifically, we identified two distinct periods where clustering is enhanced, one period in the middle of the season (mid-January) and one at the end (February). 
 
     Skills:
-      - name: Programming Languages
-        icon: fa-solid fa-code
-        keywords: "Python, Bash"
-      - name: High Performance Computing
-        icon: fa-solid fa-server
-        keywords: "Linux, HPC (SLURM), Nextflow"
-      - name: Climate Data & Tools
-        icon: fa-solid fa-cloud
-        keywords: "NetCDF, CDO, WiTRACK (windstorm tracking), CMIP model output, seasonal hindcast ensembles"
+      - label: Programming Languages
+        details: Python, Bash
+      - label: High Performance Computing
+        details: Linux, HPC (SLURM), Nextflow
+      - label: Climate Data & Tools
+        details: NetCDF, CDO, WiTRACK (windstorm tracking), CMIP model output, seasonal hindcast ensembles
 
     Conference Presentations:
     - name: "Oral Presentations"
